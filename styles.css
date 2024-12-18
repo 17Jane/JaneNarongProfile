@@ -1,6 +1,6 @@
 .master-degree {
-  width: 170px ;
-  height: 170px ;
+  width: 130px ;
+  height: 130px ;
   border-radius: 50% !important ;
 }
 
@@ -56,7 +56,7 @@ table {
   }
   
   td:last-of-type {
-    text-align: center;
+    text-align: left;
   }
   
   tbody > tr:nth-of-type(even) {
